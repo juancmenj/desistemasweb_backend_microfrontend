@@ -1,0 +1,61 @@
+{
+    "copy": {
+        "logo": "https:\/\/desistemasweb.com\/images\/commons\/logo_footer.png",
+        "nombreEmpresa": "<div class='logo-brand'><span class='p1'>desistemas<\/span><span class='p2'>WEB<\/span><span class='p3'>\/\/<\/span><\/div>",
+        "creacionEmpresa": "&copy; 2012 - ",
+        "disclaimer": "Todos los derechos reservados"
+    },
+    "redes": [
+        {
+            "url": "https:\/\/www.facebook.com\/desistemasweb",
+            "icon": "fab fa-facebook-f",
+            "redesClass": "face"
+        },
+        {
+            "url": "https:\/\/twitter.com\/desistemasweb",
+            "icon": "fab fa-twitter",
+            "redesClass": "twet"
+        },
+        {
+            "url": "https:\/\/instagram.com\/desistemasweb_",
+            "icon": "fab fa-instagram",
+            "redesClass": "inst"
+        },
+        {
+            "url": "https:\/\/instagram.com\/desistemasweb_",
+            "icon": "fab fa-linkedin",
+            "redesClass": "linkedin"
+        }
+    ],
+    "direccion": {
+        "titulo": "Comunicate con nosotros",
+        "textos": [
+            "Llámanos a los teléfonos <em>+(503) 7954 5403 \/ +(503) 2239 1884<\/em>.",
+            "Escríbenos a <em>desistemasweb@gmail.com \/ juancmenj@gmail.com<\/em>",
+            "Estamos para servirte."
+        ]
+    },
+    "enlaces": [
+        {
+            "url": "\/nosotros",
+            "linkText": "¿Quienes somos?"
+        },
+        {
+            "url": "\/oferta",
+            "linkText": "¿Qué te ofrecemos?"
+        },
+        {
+            "url": "\/portafolio",
+            "linkText": "Mi portafolio"
+        },
+        {
+            "url": "\/contacto",
+            "linkText": "Contáctenos"
+        }
+    ],
+    "signIn": {
+        "logInText": "Iniciar Sesión",
+        "logOutText": "Cerrar Sesión",
+        "url": "\/logIn"
+    }
+}

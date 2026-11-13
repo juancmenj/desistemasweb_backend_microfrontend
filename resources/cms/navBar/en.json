@@ -1,0 +1,59 @@
+{
+    "branded": {
+        "showIcon": false,
+        "iconClass": "fas fa-candy-cane",
+        "nombreEmpresa": "<div class='logo-brand'><span class='p1'>desistemas<\/span><span class='p2'>WEB<\/span><span class='p3'>\/\/<\/span><\/div>"
+    },
+    "menu": [
+        {
+            "link": "",
+            "label": "About us",
+            "subMenu": [
+                {
+                    "icon": "fas fa-building",
+                    "label": "Our company",
+                    "items": [
+                        {
+                            "link": "\/nosotros",
+                            "labels": "About us"
+                        },
+                        {
+                            "link": "\/oferta",
+                            "labels": "Our services"
+                        },
+                        {
+                            "link": "\/staff",
+                            "labels": "Staff"
+                        }
+                    ]
+                },
+                {
+                    "icon": "fas fa-plus-square",
+                    "label": "The web",
+                    "items": [
+                        {
+                            "link": "\/webdesign",
+                            "labels": "Web design and development"
+                        },
+                        {
+                            "link": "\/responsive",
+                            "labels": "Responsive design"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "\/webpacks",
+            "label": "Web combos"
+        },
+        {
+            "link": "\/portafolio",
+            "label": "Portfolio"
+        },
+        {
+            "link": "\/contacto",
+            "label": "Contact us"
+        }
+    ]
+}

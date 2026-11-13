@@ -1,0 +1,66 @@
+{
+    "carousel":  [
+        {
+            "sliderUrl": "img-sliders\/slider01.jpg",
+            "tituloSlider": "&iexcl;Tus grandes ideas!",
+            "subTituloSlider": "Sácales provecho al máximo y miralas crecer,",
+            "subTituloTextSlider": "diviértete y sorpréndete, somos la mejor opción para crear tu sitio web.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "&iexcl;Solicita tu paquete ya!"
+        },
+        {
+            "sliderUrl": "img-sliders\/slider02.jpg",
+            "tituloSlider": "&iexcl;Nuestro Equipo!",
+            "subTituloSlider": "Creatividad y dedicación de corazón,",
+            "subTituloTextSlider": "trabajamos en conjunto para solucionar tus necesidades.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "&iexcl;Solicita tu paquete ya!"
+        },
+        {
+            "sliderUrl": "img-sliders\/slider03.jpg",
+            "tituloSlider": "&iexcl;Responsive Design!",
+            "subTituloSlider": "Nueva tendencia, diseños flexibles y adaptables,",
+            "subTituloTextSlider": "mira tu página web desde tu pc, una tablet o smartphone.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "&iexcl;Solicita tu paquete ya!"
+        }
+    ],
+    "homeHeader": {
+        "titulo": "¡Hola!, te damos la bienvenida",
+        "subTitulo": "Diseño y Desarrollo de páginas visualmente atractivas, livianas, y de fácil navegación. Sitios web corporativos, páginas web promocionales o personales, comercios electrónicos, comunidades virtuales y portales."
+    },
+    "itemCard": [
+        {
+            "imgCardUrl": "commons\/img_paginas.png",
+            "imgCardAlt": "Pagina Web icon",
+            "tituloCard": "Nuestros Servicios",
+            "contentCard": "Somos una empresa dedicada al Diseño y Desarrollo de Sistemas Web, utilizando las últimas tecnologías de maquetación. Diseños adaptables y modernos. Usamos tecnología frontend como Angular, React y Vue.",
+            "botonCardUrl": "\/nosotros",
+            "botonCardText": "&iexcl;Conoce más!"
+        },
+        {
+            "imgCardUrl": "commons\/img_paquetes.png",
+            "imgCardAlt": "Paquetes web icon",
+            "tituloCard": "Paquetes Web",
+            "contentCard": "Siempre pensamos en tu bolsillo, en <div class='logo'><span class='p1'>desistemas<\/span><span class='p2'>WEB<\/span><span class='p3'>\/\/<\/span><\/div> creamos Super Ofertas diseñadas especialmente para tí. Conoce nuestros paquetes web hechos a tu medida.",
+            "botonCardUrl": "\/webpacks",
+            "botonCardText": "&iexcl;Conoce más!"
+        },
+        {
+            "imgCardUrl": "commons\/img_portafolio.png",
+            "imgCardAlt": "Portafolio icon",
+            "tituloCard": "Portafolio",
+            "contentCard": "&iexcl;Mira nuestro portafolio de proyectos realizados! La satisfacción de nuestros clientes es nuestro sello de garantia y siempre nos motiva a servirte mejor.",
+            "botonCardUrl": "\/portafolio",
+            "botonCardText": "&iexcl;Conoce más!"
+        }
+    ],
+    "comunicate": {
+        "imgComunicateUrl": "commons\/img_contacto.jpg",
+        "imgComunicateAlt": "Contacto Icon",
+        "tituloComunicate": "Diseña y crea",
+        "contentComunicate": "Tienes una idea en mente, ven con nosotros, te ayudaremos, somos expertos en crear sitios web a tu medida, tal como tú lo quieres. &iexcl;Queremos ayudarte!",
+        "botonComunicateUrl": "\/contacto",
+        "botonComunicateText": "Comunícate con nosotros"
+    }
+}

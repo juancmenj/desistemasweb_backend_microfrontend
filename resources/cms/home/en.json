@@ -1,0 +1,66 @@
+{
+    "carousel": [
+        {
+            "sliderUrl": "img-sliders\/slider01.jpg",
+            "tituloSlider": "Your great ideas!",
+            "subTituloSlider": "Make the most of them and watch them grow,",
+            "subTituloTextSlider": "have fun and be surprised, we are the best option to create your website.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "Get your package now!"
+        },
+        {
+            "sliderUrl": "img-sliders\/slider02.jpg",
+            "tituloSlider": "Our team!",
+            "subTituloSlider": "Creativity and dedication of heart,",
+            "subTituloTextSlider": "we work together to solve your needs.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "Get your package now!"
+        },
+        {
+            "sliderUrl": "img-sliders\/slider03.jpg",
+            "tituloSlider": "Responsive Design!",
+            "subTituloSlider": "New trend, flexible and adaptable designs,",
+            "subTituloTextSlider": "look at your website from your pc, a tablet or smartphones.",
+            "botonSliderdUrl": "\/webpacks",
+            "botonSliderdText": "Get your package now!"
+        }
+    ],
+    "homeHeader": {
+        "titulo": "¡Hello!, you are welcome",
+        "subTitulo": "Design and Development of visually attractive, lightweight, and easy to navigate pages. Corporate websites, promotional or personal websites, e-commerce, virtual communities and portals."
+    },
+    "itemCard": [
+        {
+            "imgCardUrl": "commons\/img_paginas.png",
+            "imgCardAlt": "Web page icon",
+            "tituloCard": "Our services",
+            "contentCard": "We are a company dedicated to the Design and Development of Web Systems, using the latest layout technologies. Adaptable and modern designs. We use Angular, React and Vue frontend technology.",
+            "botonCardUrl": "\/nosotros",
+            "botonCardText": "Learn more!"
+        },
+        {
+            "imgCardUrl": "commons\/img_paquetes.png",
+            "imgCardAlt": "Web Design Packages icon",
+            "tituloCard": "Web Design Packages",
+            "contentCard": "We always think about your pocket, at <div class='logo'><span class='p1'>desistemas<\/span><span class='p2'>WEB<\/span><span class='p3'>\/\/<\/span><\/div> we create Super Offers designed especially for you. Get to know our web packages made for you.",
+            "botonCardUrl": "\/webpacks",
+            "botonCardText": "Learn more!"
+        },
+        {
+            "imgCardUrl": "commons\/img_portafolio.png",
+            "imgCardAlt": "Portfolio icon",
+            "tituloCard": "Portfolio",
+            "contentCard": "Look at our portfolio of completed projects! The satisfaction of our clients is our seal of guarantee and always motivates us to serve you better.",
+            "botonCardUrl": "\/portafolio",
+            "botonCardText": "Learn more!"
+        }
+    ],
+    "comunicate": {
+        "imgComunicateUrl": "commons\/img_contacto.jpg",
+        "imgComunicateAlt": "Contacts Icon",
+        "tituloComunicate": "Design and create",
+        "contentComunicate": "You have an idea in mind, come with us, we will help you, we are experts in creating websites to suit you, just the way you want it. We want to help you!",
+        "botonComunicateUrl": "\/contacto",
+        "botonComunicateText": "Contact us"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "copy": {
+        "logo": "https:\/\/desistemasweb.com\/images\/commons\/logo_footer.png",
+        "nombreEmpresa": "<div class='logo-brand'><span class='p1'>desistemas<\/span><span class='p2'>WEB<\/span><span class='p3'>\/\/<\/span><\/div>",
+        "creacionEmpresa": "&copy; 2012 - ",
+        "disclaimer": "All rights reserved"
+    },
+    "redes": [
+        {
+            "url": "https:\/\/www.facebook.com\/desistemasweb",
+            "icon": "fab fa-facebook-f",
+            "redesClass": "face"
+        },
+        {
+            "url": "https:\/\/twitter.com\/desistemasweb",
+            "icon": "fab fa-twitter",
+            "redesClass": "twet"
+        },
+        {
+            "url": "https:\/\/instagram.com\/desistemasweb_",
+            "icon": "fab fa-instagram",
+            "redesClass": "inst"
+        },
+        {
+            "url": "https:\/\/instagram.com\/desistemasweb_",
+            "icon": "fab fa-linkedin",
+            "redesClass": "linkedin"
+        }
+    ],
+    "direccion": {
+        "titulo": "Contact us",
+        "textos": [
+            "Call us at <em>+(503) 7954 5403 \/ +(503) 2239 1884<\/em> phones.",
+            "Send a mail to us at <em>desistemasweb@gmail.com \/ juancmenj@gmail.com<\/em>",
+            "We're here to serve you."
+        ]
+    },
+    "enlaces": [
+        {
+            "url": "\/contacto",
+            "linkText": "Contact Us"
+        },
+        {
+            "url": "\/nosotros",
+            "linkText": "About us"
+        },
+        {
+            "url": "\/oferta",
+            "linkText": "What do we offer you?"
+        },
+        {
+            "url": "\/portafolio",
+            "linkText": "My portfolio"
+        }
+    ],
+    "signIn": {
+        "logInText": "Login",
+        "logOutText": "Logout",
+        "url": "\/logIn"
+    }
+}
